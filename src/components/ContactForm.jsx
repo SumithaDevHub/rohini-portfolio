@@ -4,7 +4,7 @@ import React from "react";
 const ContactForm = () => {
   return (
     <form
-  action="https://formspree.io/f/mzzgoqon" // replace with your unique endpoint
+  action={import.meta.env.VITE_FORMSPREE_ENDPOINT}
   method="POST"
   className="bg-[#121633] p-6 rounded-xl shadow-md space-y-4 w-full max-w-md border border-gray-700"
 >
