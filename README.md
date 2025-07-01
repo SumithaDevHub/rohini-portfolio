@@ -8,11 +8,6 @@ Personal portfolio built with React, Tailwind CSS, and Vite.
 
 ## ✨ Features
 
-=======
-[rohini.vercel.app](https://rohini.vercel.app)
-
-## ✨ Features
-
 - Mail with subject auto
 - Download with custom name
 - Projects showcase
